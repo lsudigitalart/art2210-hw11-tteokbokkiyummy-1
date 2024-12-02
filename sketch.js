@@ -1,7 +1,7 @@
 //https://data.brla.gov/Housing-and-Development/Apartment/wtig-th7z/about_data 
 
 let apartments; 
-let citizenTable;
+let citizenTable; 
 
 let minlat = 30.32379644486961;
 let maxlat = 30.559260561666104;
